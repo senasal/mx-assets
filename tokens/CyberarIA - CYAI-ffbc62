@@ -1,0 +1,5 @@
+tokens/
+  CYAI-ffbc62/
+    ├── info.json
+    ├── logo.png   ← 200x200px, max 100KB
+    └── logo.svg   ← SVG version, transparent background
